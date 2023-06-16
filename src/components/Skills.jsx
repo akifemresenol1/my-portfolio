@@ -7,6 +7,7 @@ import ReactImg from "../assets/react.png";
 import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
 import Bootstrap from "../assets/bootstrap.png";
+import Node from "../assets/node.png";
 
 const Skills = () => {
   return (
@@ -47,6 +48,10 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Bootstrap} alt="HTML icon" />
             <p className="my-4">BOOTSTRAP</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Node} alt="HTML icon" />
+            <p className="my-4">Node</p>
           </div>
         </div>
       </div>
