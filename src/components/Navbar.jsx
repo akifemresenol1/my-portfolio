@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/logo1.gif";
 import Resume from "../assets/akifemresenol.pdf";
 import { Link } from "react-scroll";
 
@@ -33,7 +33,7 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="projects" smooth={true} duration={500}>
+          <Link to="project" smooth={true} duration={500}>
             Projects
           </Link>
         </li>
@@ -70,9 +70,15 @@ const Navbar = () => {
             Skills
           </Link>
         </li>
+
         <li className="py-6 text-4xl">
-          <Link onClick={handleClick} to="work" smooth={true} duration={500}>
-            Work
+          <Link
+            onClick={handleClick}
+            to="projects"
+            smooth={true}
+            duration={500}
+          >
+            Projects
           </Link>
         </li>
         <li className="py-6 text-4xl">
