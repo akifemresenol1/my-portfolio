@@ -35,7 +35,7 @@ function Contact() {
         <textarea
           className="bg-[#ccd6f6]"
           name="message"
-          rows="10"
+          rows="7"
           placeholder="Message"
         ></textarea>
         <button className="text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 my-8 mx-auto flex items-center">
