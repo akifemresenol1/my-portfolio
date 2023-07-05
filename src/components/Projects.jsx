@@ -28,7 +28,7 @@ const Projects = () => {
                 <span className="text-2xl font bold text-white tracking-wider ">
                   {item.name}
                 </span>
-                <div className="pt-8 text-center ">
+                <div className="pt-8 text-center  ">
                   <a href={item.github} target="_blank">
                     <button
                       className="text-center rounded-lg px-4 py-3 m-2
