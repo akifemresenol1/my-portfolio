@@ -4,21 +4,21 @@ import { Link } from "react-scroll";
 
 const Home = () => {
   return (
-    <div name="home" className="w-full h-screen bg-[#0a192f]">
-      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-        <p className="text-pink-600">Hi, my name is</p>
-        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
-          Akif Emre Şenol
+    <div name="home" className="w-full h-screen bg-[#221b42]">
+      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full ">
+        <p className="sm:text-7xl text-yellow-500">Welcome.</p>
+        <h1 className="text-4xl sm:text-4xl font-bold text-[#ebeff9]">
+          My name is Akif Emre Şenol
         </h1>
-        <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
+        <h2 className="text-4xl sm:text-3xl font-bold pb-4 text-[#9fadd8]">
           I'm a Frontend Developer.
         </h2>
-        <p className="text-[#8892b0] py-4 max-w-[700px]">
+        <p className="text-[#a9aebc] py-4 max-w-[700px] border-t-[3px] border-yellow-600">
           I’m a frontend developer based in Turkey. Currently, I’m focused on
           building responsive web applications. And I love what I do.
         </p>
         <div>
-          <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
+          <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-yellow-500 hover:border-yellow-500">
             <Link to="project" smooth={true} duration={500}>
               View Projects
             </Link>
