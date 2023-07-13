@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.7a3bba59.css",
+    "main.js": "/my-portfolio/static/js/main.a60844d3.js",
+    "static/media/akifemresenol.pdf": "/my-portfolio/static/media/akifemresenol.bd7ab30602f19f441825.pdf",
+    "static/media/logo1.gif": "/my-portfolio/static/media/logo1.b31655aeb566789dab09.gif",
+    "static/media/starships.png": "/my-portfolio/static/media/starships.f00a5843b5a4b8dd3df7.png",
+    "static/media/bootstrap.png": "/my-portfolio/static/media/bootstrap.f132cb791703420e69ca.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/my-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.7a3bba59.css.map": "/my-portfolio/static/css/main.7a3bba59.css.map",
+    "main.a60844d3.js.map": "/my-portfolio/static/js/main.a60844d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3bba59.css",
+    "static/js/main.a60844d3.js"
+  ]
+}
