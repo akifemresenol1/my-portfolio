@@ -126,7 +126,7 @@ npm start
 
   
 
-![desktop 3](https://github.com/akifemresenol1/my-portfolio/blob/main/screenshots/contact.png)
+![desktop 3](https://github.com/akifemresenol1/my-portfolio/blob/main/screenshots/contact-page.png)
 
   
 
